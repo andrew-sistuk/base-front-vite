@@ -59,6 +59,6 @@
 6. and add structure folders
 
 
-## Features
+## Future features
 
 1) add jsconfig.js
