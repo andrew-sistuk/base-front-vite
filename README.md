@@ -60,3 +60,4 @@
 ## Future features
 
 1) add jsconfig.js
+2) add package-lock.json to .gitignore
