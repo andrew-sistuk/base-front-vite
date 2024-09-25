@@ -41,7 +41,7 @@
 7. react-router-dom
 8. reduxjs/toolkit
 9. react-redux
-10. 
+10. react-hook-form
 
 
 
@@ -58,3 +58,7 @@
 5. add reset.css
 6. and add structure folders
 
+
+## Features
+
+1) add jsconfig.js
