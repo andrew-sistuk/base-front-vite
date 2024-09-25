@@ -43,8 +43,6 @@
 9. react-redux
 10. react-hook-form
 
-
-
 ## Code
 
 1. main.jsx
